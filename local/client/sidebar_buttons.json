@@ -1,0 +1,12 @@
+{
+	"ftbu.guide": false,
+	"ftbu.leaderboards": false,
+	"ftbu.toggle.gamemode": false,
+	"ftbu.toggle.rain": false,
+	"ftbu.toggle.day": false,
+	"ftbu.toggle.night": false,
+	"ftbu.heal": false,
+	"ftbu.claimed_chunks": false,
+	"ftbu.trash_can": false,
+	"ftbu.view_crash": false
+}
