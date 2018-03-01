@@ -24,8 +24,8 @@
         {
           "block": "minecraft:coal_ore",
           "parameters": {
-            "size": 25,
-            "variation": 12,
+            "size": 17,
+            "variation": 6,
             "frequency": 20.0,
             "minHeight": 0,
             "maxHeight": 128
@@ -102,8 +102,8 @@
         {
           "block": "minecraft:emerald_ore",
           "parameters": {
-            "size": 1,
-            "variation": 0,
+            "size": 2,
+            "variation": 1,
             "frequency": 8.0,
             "minHeight": 4,
             "maxHeight": 32

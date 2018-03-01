@@ -6,11 +6,11 @@
         {
           "block": "modernmetals:aluminum_ore",
           "parameters": {
-            "size": 10,
-            "variation": 8,
+            "size": 8,
+            "variation": 2,
             "frequency": 8.0,
             "minHeight": 0,
-            "maxHeight": 96
+            "maxHeight": 128
           },
           "feature": "default",
           "replace_block": "default"
@@ -18,9 +18,9 @@
         {
           "block": "modernmetals:beryllium_ore",
           "parameters": {
-            "size": 10,
+            "size": 0,
             "variation": 6,
-            "frequency": 8.0,
+            "frequency": 0.0,
             "minHeight": 0,
             "maxHeight": 96
           },
@@ -30,11 +30,11 @@
         {
           "block": "modernmetals:boron_ore",
           "parameters": {
-            "size": 10,
-            "variation": 6,
+            "size": 7,
+            "variation": 2,
             "frequency": 8.0,
             "minHeight": 0,
-            "maxHeight": 96
+            "maxHeight": 28
           },
           "feature": "default",
           "replace_block": "default"
@@ -78,11 +78,11 @@
         {
           "block": "modernmetals:magnesium_ore",
           "parameters": {
-            "size": 10,
-            "variation": 4,
-            "frequency": 8.0,
+            "size": 7,
+            "variation": 2,
+            "frequency": 5.0,
             "minHeight": 0,
-            "maxHeight": 96
+            "maxHeight": 24
           },
           "feature": "default",
           "replace_block": "default"
@@ -102,11 +102,11 @@
         {
           "block": "modernmetals:osmium_ore",
           "parameters": {
-            "size": 12,
-            "variation": 6,
+            "size": 8,
+            "variation": 2,
             "frequency": 8.0,
             "minHeight": 0,
-            "maxHeight": 96
+            "maxHeight": 45
           },
           "feature": "default",
           "replace_block": "default"
@@ -150,11 +150,11 @@
         {
           "block": "modernmetals:thorium_ore",
           "parameters": {
-            "size": 10,
-            "variation": 6,
-            "frequency": 8.0,
+            "size": 8,
+            "variation": 2,
+            "frequency": 6.0,
             "minHeight": 0,
-            "maxHeight": 96
+            "maxHeight": 32
           },
           "feature": "default",
           "replace_block": "default"
@@ -175,8 +175,8 @@
           "block": "modernmetals:uranium_ore",
           "parameters": {
             "size": 8,
-            "variation": 6,
-            "frequency": 8.0,
+            "variation": 2,
+            "frequency": 6.0,
             "minHeight": 0,
             "maxHeight": 32
           },
