@@ -1,0 +1,164 @@
+Registry Name,ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Class
+minecraft:ocean,0,Ocean,0.5,0.5,0.1,-1.0,0.1,"WATER, OCEAN",net.minecraft.world.biome.BiomeOcean
+minecraft:plains,1,Plains,0.8,0.4,0.1,0.125,0.05,PLAINS,net.minecraft.world.biome.BiomePlains
+minecraft:desert,2,Desert,2.0,0.0,0.1,0.125,0.05,"DRY, SANDY, HOT",net.minecraft.world.biome.BiomeDesert
+minecraft:extreme_hills,3,Extreme Hills,0.2,0.3,0.1,1.0,0.5,"MOUNTAIN, HILLS",net.minecraft.world.biome.BiomeHills
+minecraft:forest,4,Forest,0.7,0.8,0.1,0.1,0.2,FOREST,net.minecraft.world.biome.BiomeForest
+minecraft:taiga,5,Taiga,0.25,0.8,0.1,0.2,0.2,"CONIFEROUS, FOREST, COLD",net.minecraft.world.biome.BiomeTaiga
+minecraft:swampland,6,Swampland,0.8,0.9,0.1,-0.2,0.1,"SWAMP, WET",net.minecraft.world.biome.BiomeSwamp
+minecraft:river,7,River,0.5,0.5,0.1,-0.5,0.0,"WATER, RIVER",net.minecraft.world.biome.BiomeRiver
+minecraft:hell,8,Hell,2.0,0.0,0.1,0.1,0.2,"DRY, HOT, NETHER",net.minecraft.world.biome.BiomeHell
+minecraft:sky,9,The End,0.5,0.5,0.1,0.1,0.2,"END, DRY, COLD",net.minecraft.world.biome.BiomeEnd
+minecraft:frozen_ocean,10,FrozenOcean,0.0,0.5,0.1,-1.0,0.1,"SNOWY, WATER, COLD, OCEAN",net.minecraft.world.biome.BiomeOcean
+minecraft:frozen_river,11,FrozenRiver,0.0,0.5,0.1,-0.5,0.0,"SNOWY, WATER, COLD, RIVER",net.minecraft.world.biome.BiomeRiver
+minecraft:ice_flats,12,Ice Plains,0.0,0.5,0.07,0.125,0.05,"WASTELAND, SNOWY, COLD",net.minecraft.world.biome.BiomeSnow
+minecraft:ice_mountains,13,Ice Mountains,0.0,0.5,0.07,0.45,0.3,"SNOWY, MOUNTAIN, COLD",net.minecraft.world.biome.BiomeSnow
+minecraft:mushroom_island,14,MushroomIsland,0.9,1.0,0.1,0.2,0.3,"MUSHROOM, RARE",net.minecraft.world.biome.BiomeMushroomIsland
+minecraft:mushroom_island_shore,15,MushroomIslandShore,0.9,1.0,0.1,0.0,0.025,"MUSHROOM, BEACH, RARE",net.minecraft.world.biome.BiomeMushroomIsland
+minecraft:beaches,16,Beach,0.8,0.4,0.1,0.0,0.025,BEACH,net.minecraft.world.biome.BiomeBeach
+minecraft:desert_hills,17,DesertHills,2.0,0.0,0.1,0.45,0.3,"DRY, SANDY, HOT, HILLS",net.minecraft.world.biome.BiomeDesert
+minecraft:forest_hills,18,ForestHills,0.7,0.8,0.1,0.45,0.3,"FOREST, HILLS",net.minecraft.world.biome.BiomeForest
+minecraft:taiga_hills,19,TaigaHills,0.25,0.8,0.1,0.45,0.3,"CONIFEROUS, FOREST, COLD, HILLS",net.minecraft.world.biome.BiomeTaiga
+minecraft:smaller_extreme_hills,20,Extreme Hills Edge,0.2,0.3,0.1,0.8,0.3,MOUNTAIN,net.minecraft.world.biome.BiomeHills
+minecraft:jungle,21,Jungle,0.95,0.9,0.1,0.1,0.2,"HOT, JUNGLE, WET, DENSE",net.minecraft.world.biome.BiomeJungle
+minecraft:jungle_hills,22,JungleHills,0.95,0.9,0.1,0.45,0.3,"HOT, JUNGLE, HILLS, WET, DENSE",net.minecraft.world.biome.BiomeJungle
+minecraft:jungle_edge,23,JungleEdge,0.95,0.8,0.1,0.1,0.2,"FOREST, HOT, JUNGLE, WET, RARE",net.minecraft.world.biome.BiomeJungle
+minecraft:deep_ocean,24,Deep Ocean,0.5,0.5,0.1,-1.8,0.1,"WATER, OCEAN",net.minecraft.world.biome.BiomeOcean
+minecraft:stone_beach,25,Stone Beach,0.2,0.3,0.1,0.1,0.8,BEACH,net.minecraft.world.biome.BiomeStoneBeach
+minecraft:cold_beach,26,Cold Beach,0.05,0.3,0.1,0.0,0.025,"SNOWY, COLD, BEACH",net.minecraft.world.biome.BiomeBeach
+minecraft:birch_forest,27,Birch Forest,0.6,0.6,0.1,0.1,0.2,FOREST,net.minecraft.world.biome.BiomeForest
+minecraft:birch_forest_hills,28,Birch Forest Hills,0.6,0.6,0.1,0.45,0.3,"FOREST, HILLS",net.minecraft.world.biome.BiomeForest
+minecraft:roofed_forest,29,Roofed Forest,0.7,0.8,0.1,0.1,0.2,"FOREST, SPOOKY, DENSE",net.minecraft.world.biome.BiomeForest
+minecraft:taiga_cold,30,Cold Taiga,-0.5,0.4,0.1,0.2,0.2,"CONIFEROUS, FOREST, SNOWY, COLD",net.minecraft.world.biome.BiomeTaiga
+minecraft:taiga_cold_hills,31,Cold Taiga Hills,-0.5,0.4,0.1,0.45,0.3,"CONIFEROUS, FOREST, SNOWY, COLD, HILLS",net.minecraft.world.biome.BiomeTaiga
+minecraft:redwood_taiga,32,Mega Taiga,0.3,0.8,0.1,0.2,0.2,"CONIFEROUS, FOREST, COLD",net.minecraft.world.biome.BiomeTaiga
+minecraft:redwood_taiga_hills,33,Mega Taiga Hills,0.3,0.8,0.1,0.45,0.3,"CONIFEROUS, FOREST, COLD, HILLS",net.minecraft.world.biome.BiomeTaiga
+minecraft:extreme_hills_with_trees,34,Extreme Hills+,0.2,0.3,0.1,1.0,0.5,"FOREST, SPARSE, MOUNTAIN",net.minecraft.world.biome.BiomeHills
+minecraft:savanna,35,Savanna,1.2,0.0,0.1,0.125,0.05,"SPARSE, SAVANNA, HOT, PLAINS",net.minecraft.world.biome.BiomeSavanna
+minecraft:savanna_rock,36,Savanna Plateau,1.0,0.0,0.1,1.5,0.025,"SPARSE, SAVANNA, HOT, RARE, PLAINS",net.minecraft.world.biome.BiomeSavanna
+minecraft:mesa,37,Mesa,2.0,0.0,0.1,0.1,0.2,"SANDY, MESA",net.minecraft.world.biome.BiomeMesa
+minecraft:mesa_rock,38,Mesa Plateau F,2.0,0.0,0.1,1.5,0.025,"SPARSE, SANDY, MESA",net.minecraft.world.biome.BiomeMesa
+minecraft:mesa_clear_rock,39,Mesa Plateau,2.0,0.0,0.1,1.5,0.025,"SANDY, MESA",net.minecraft.world.biome.BiomeMesa
+biomesoplenty:gravel_beach,40,Gravel Beach,0.5,0.5,0.1,-0.05882353,0.043750003,BEACH,biomesoplenty.common.biome.overworld.BiomeGenGravelBeach
+biomesoplenty:white_beach,41,White Beach,1.0,1.0,0.1,-0.05882353,0.112500004,BEACH,biomesoplenty.common.biome.overworld.BiomeGenWhiteBeach
+biomesoplenty:alps,42,Alps,-0.5,0.3,0.1,7.8235292,0.23125,"SNOWY, MOUNTAIN, DRY, COLD",biomesoplenty.common.biome.overworld.BiomeGenAlps
+biomesoplenty:bamboo_forest,43,Bamboo Forest,0.9,0.85,0.1,0.1764706,0.043750003,"FOREST, JUNGLE, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenBambooForest
+biomesoplenty:bayou,44,Bayou,0.85,0.9,0.1,-0.1764706,0.025,"SWAMP, HOT, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenBayou
+biomesoplenty:bog,45,Bog,0.5,0.9,0.1,-0.05882353,0.09375,"FOREST, SWAMP, COLD, WET",biomesoplenty.common.biome.overworld.BiomeGenBog
+biomesoplenty:boreal_forest,46,Boreal Forest,0.3,0.6,0.1,0.29411766,0.41875,"FOREST, CONIFEROUS, COLD, HILLS, DENSE",biomesoplenty.common.biome.overworld.BiomeGenBorealForest
+biomesoplenty:brushland,47,Brushland,1.5,0.1,0.1,0.05882353,0.05625,"SPARSE, SAVANNA, DRY, HOT",biomesoplenty.common.biome.overworld.BiomeGenBrushland
+biomesoplenty:chaparral,48,Chaparral,0.8,0.4,0.1,0.88235295,0.23125,"DRY, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenChaparral
+biomesoplenty:cherry_blossom_grove,49,Cherry Blossom Grove,0.55,0.8,0.1,-0.11764706,0.1375,"LUSH, FOREST, MAGICAL, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenCherryBlossomGrove
+biomesoplenty:cold_desert,50,Cold Desert,0.25,0.0,0.1,-0.05882353,0.043750003,"SNOWY, DRY, COLD",biomesoplenty.common.biome.overworld.BiomeGenColdDesert
+biomesoplenty:coniferous_forest,51,Coniferous Forest,0.45,0.5,0.1,0.1764706,0.23125,"CONIFEROUS, FOREST, COLD, DENSE",biomesoplenty.common.biome.overworld.BiomeGenConiferousForest
+biomesoplenty:crag,52,Crag,0.5,0.5,0.1,2.0588236,3.1062498,"WASTELAND, MOUNTAIN, MAGICAL, DRY, COLD, HILLS",biomesoplenty.common.biome.overworld.BiomeGenCrag
+biomesoplenty:dead_forest,53,Dead Forest,0.3,0.3,0.1,0.1764706,0.2125,"FOREST, SPARSE, DRY, COLD, DEAD",biomesoplenty.common.biome.overworld.BiomeGenDeadForest
+biomesoplenty:dead_swamp,54,Dead Swamp,0.55,0.9,0.1,-0.11764706,0.025,"SWAMP, SPOOKY, SPARSE, COLD, DEAD, WET",biomesoplenty.common.biome.overworld.BiomeGenDeadSwamp
+biomesoplenty:eucalyptus_forest,55,Eucalyptus Forest,0.85,0.9,0.1,-0.05882353,0.23125,"LUSH, FOREST, JUNGLE, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenEucalyptusForest
+biomesoplenty:fen,56,Fen,0.4,0.4,0.1,-0.05882353,0.15,"FOREST, SWAMP, COLD, DEAD, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenFen
+biomesoplenty:flower_field,57,Flower Field,0.6,0.7,0.1,-0.05882353,0.03125,"LUSH, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenFlowerField
+biomesoplenty:grassland,58,Grassland,0.6,0.7,0.1,-0.05882353,0.1625,"HILLS, WET, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenGrassland
+biomesoplenty:grove,59,Grove,0.55,0.8,0.1,0.05882353,0.18125,"LUSH, FOREST, SPARSE, WET, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenGrove
+biomesoplenty:highland,60,Highland,0.55,0.8,0.1,2.0588236,0.95,"MOUNTAIN, HILLS, WET",biomesoplenty.common.biome.overworld.BiomeGenHighland
+biomesoplenty:land_of_lakes,61,Land of Lakes,0.5,0.9,0.1,-0.11764706,0.16875,"FOREST, SWAMP, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenLandOfLakes
+biomesoplenty:lavender_fields,62,Lavender Fields,0.7,0.7,0.1,-0.05882353,0.03125,"LUSH, MAGICAL, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenLavenderFields
+biomesoplenty:lush_desert,63,Lush Desert,1.2,0.4,0.1,-0.11764706,0.30625,"LUSH, SPARSE, SAVANNA, DRY, SANDY, HOT",biomesoplenty.common.biome.overworld.BiomeGenLushDesert
+biomesoplenty:lush_swamp,64,Lush Swamp,0.7,1.0,0.1,-0.11764706,0.043750003,"LUSH, SWAMP, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenLushSwamp
+biomesoplenty:mangrove,65,Mangrove,0.8,0.3,0.1,-0.1764706,0.06875,"LUSH, SWAMP, WATER, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenMangrove
+biomesoplenty:maple_woods,66,Maple Woods,0.25,0.8,0.1,0.29411766,0.2625,"FOREST, CONIFEROUS, COLD, DENSE",biomesoplenty.common.biome.overworld.BiomeGenMapleWoods
+biomesoplenty:marsh,67,Marsh,0.6,0.8,0.1,-0.1764706,0.0062499996,"LUSH, SWAMP, WET",biomesoplenty.common.biome.overworld.BiomeGenMarsh
+biomesoplenty:meadow,68,Meadow,0.45,0.7,0.1,-0.05882353,0.0125,"LUSH, FOREST, SPARSE, COLD, WET, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenMeadow
+biomesoplenty:moor,69,Moor,0.55,1.0,0.1,1.3529412,0.118750006,"SWAMP, HILLS, WET",biomesoplenty.common.biome.overworld.BiomeGenMoor
+biomesoplenty:mountain,70,Mountain,0.5,0.1,0.1,4.4117646,0.98125,"FOREST, SPARSE, MOUNTAIN, DRY",biomesoplenty.common.biome.overworld.BiomeGenMountain
+biomesoplenty:mystic_grove,71,Mystic Grove,0.6,0.8,0.1,-0.11764706,0.106249996,"LUSH, FOREST, MAGICAL, WET, DENSE, RARE",biomesoplenty.common.biome.overworld.BiomeGenMysticGrove
+biomesoplenty:ominous_woods,72,Ominous Woods,0.45,0.6,0.1,0.1764706,0.075,"FOREST, SPOOKY, MAGICAL, DEAD, WET, DENSE, RARE",biomesoplenty.common.biome.overworld.BiomeGenOminousWoods
+biomesoplenty:orchard,73,Orchard,0.7,0.7,0.1,-0.05882353,0.05,"LUSH, FOREST, DENSE, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenOrchard
+biomesoplenty:outback,74,Outback,1.5,0.05,0.1,0.4117647,0.118750006,"SPARSE, SAVANNA, DRY, SANDY, HOT",biomesoplenty.common.biome.overworld.BiomeGenOutback
+biomesoplenty:overgrown_cliffs,75,Overgrown Cliffs,0.95,0.75,0.1,0.29411766,0.60625,"LUSH, MOUNTAIN, HILLS, JUNGLE, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenOvergrownCliffs
+biomesoplenty:prairie,76,Prairie,0.8,0.3,0.1,-0.05882353,0.05,"SPARSE, DRY, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenPrairie
+biomesoplenty:quagmire,77,Quagmire,0.55,0.9,0.1,-0.11764706,0.043750003,"WASTELAND, SWAMP, DEAD, WET",biomesoplenty.common.biome.overworld.BiomeGenQuagmire
+biomesoplenty:rainforest,78,Rainforest,0.95,1.2,0.1,0.88235295,1.41875,"LUSH, FOREST, JUNGLE, HILLS, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenRainforest
+biomesoplenty:redwood_forest,79,Redwood Forest,0.7,0.7,0.1,0.29411766,0.112500004,"FOREST, DENSE",biomesoplenty.common.biome.overworld.BiomeGenRedwoodForest
+biomesoplenty:sacred_springs,80,Sacred Springs,0.8,0.9,0.1,-0.05882353,0.16875,"LUSH, FOREST, MAGICAL, JUNGLE, WET, DENSE, RARE",biomesoplenty.common.biome.overworld.BiomeGenSacredSprings
+biomesoplenty:seasonal_forest,81,Seasonal Forest,0.4,0.8,0.1,0.5882353,0.54375,"FOREST, COLD, DENSE",biomesoplenty.common.biome.overworld.BiomeGenSeasonalForest
+biomesoplenty:shield,82,Shield,0.3,0.8,0.1,-0.11764706,0.16875,"FOREST, COLD, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenShield
+biomesoplenty:shrubland,83,Shrubland,0.6,0.05,0.1,0.05882353,0.15,"SPARSE, DRY, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenShrubland
+biomesoplenty:snowy_coniferous_forest,84,Snowy Coniferous Forest,-0.25,0.5,0.1,0.1764706,0.23125,"FOREST, CONIFEROUS, SNOWY, COLD, DENSE",biomesoplenty.common.biome.overworld.BiomeGenSnowyConiferousForest
+biomesoplenty:snowy_forest,85,Snowy Forest,-0.25,0.5,0.1,0.05882353,0.1375,"FOREST, SNOWY, SPARSE, COLD, WET",biomesoplenty.common.biome.overworld.BiomeGenSnowyForest
+biomesoplenty:steppe,86,Steppe,0.75,0.1,0.1,0.29411766,0.13125,"DRY, SANDY, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenSteppe
+biomesoplenty:temperate_rainforest,87,Temperate Rainforest,0.75,1.2,0.1,-0.11764706,0.325,"LUSH, FOREST, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenTemperateRainforest
+biomesoplenty:tropical_rainforest,88,Tropical Rainforest,1.2,1.0,0.1,0.11764706,0.2625,"LUSH, JUNGLE, HOT, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenTropicalRainforest
+biomesoplenty:tundra,89,Tundra,0.2,0.5,0.1,-0.05882353,0.043750003,"WASTELAND, SPARSE, DRY, COLD, DEAD",biomesoplenty.common.biome.overworld.BiomeGenTundra
+biomesoplenty:wasteland,90,Wasteland,2.0,0.0,0.1,0.05882353,0.087500006,"WASTELAND, SPARSE, DRY, DEAD",biomesoplenty.common.biome.overworld.BiomeGenWasteland
+biomesoplenty:wetland,91,Wetland,0.6,0.7,0.1,-0.11764706,0.075,"LUSH, FOREST, SWAMP, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenWetland
+biomesoplenty:woodland,92,Woodland,0.7,0.5,0.1,-0.05882353,0.1625,"FOREST, DRY, DENSE",biomesoplenty.common.biome.overworld.BiomeGenWoodland
+biomesoplenty:xeric_shrubland,93,Xeric Shrubland,1.5,0.1,0.1,-0.05882353,0.087500006,"LUSH, SPARSE, SAVANNA, DRY, SANDY, HOT",biomesoplenty.common.biome.overworld.BiomeGenXericShrubland
+biomesoplenty:alps_foothills,94,AlpsFoothills,-0.5,0.3,0.1,3.235294,1.45625,"FOREST, SNOWY, SPARSE, MOUNTAIN, DRY, COLD",biomesoplenty.common.biome.overworld.BiomeGenAlps
+biomesoplenty:mountain_foothills,95,MountainFoothills,0.5,0.1,0.1,2.0588236,0.41875,"FOREST, SPARSE, MOUNTAIN, DRY, HILLS",biomesoplenty.common.biome.overworld.BiomeGenMountain
+biomesoplenty:glacier,96,Glacier,-0.5,0.2,0.1,1.3529412,0.118750006,"WASTELAND, SNOWY, COLD",biomesoplenty.common.biome.overworld.BiomeGenGlacier
+biomesoplenty:oasis,97,Oasis,2.0,0.5,0.1,-0.05882353,0.0,"LUSH, SPARSE, SANDY, JUNGLE, HOT, WET",biomesoplenty.common.biome.overworld.BiomeGenOasis
+biomesoplenty:coral_reef,98,Coral Reef,0.5,0.5,0.1,-1.1764706,0.043750003,"WATER, OCEAN",biomesoplenty.common.biome.overworld.BiomeGenCoralReef
+biomesoplenty:kelp_forest,99,Kelp Forest,0.5,0.5,0.1,-1.4705882,0.0125,"WATER, OCEAN",biomesoplenty.common.biome.overworld.BiomeGenKelpForest
+biomesoplenty:origin_island,100,Origin Island,0.6,0.6,0.1,-0.05882353,0.1625,"FOREST, WATER, RARE",biomesoplenty.common.biome.overworld.BiomeGenOriginIsland
+biomesoplenty:tropical_island,101,Tropical Island,1.0,1.0,0.1,-0.05882353,0.23125,"LUSH, WATER, JUNGLE, WET, DENSE",biomesoplenty.common.biome.overworld.BiomeGenTropicalIsland
+biomesoplenty:volcanic_island,102,Volcanic Island,1.2,0.2,0.1,3.235294,1.41875,"WASTELAND, WATER, MOUNTAIN, DRY, HOT, DEAD",biomesoplenty.common.biome.overworld.BiomeGenVolcanicIsland
+biomesoplenty:flower_island,103,Flower Island,0.6,0.8,0.1,0.29411766,0.2,"LUSH, WATER, MAGICAL, DENSE, PLAINS",biomesoplenty.common.biome.overworld.BiomeGenFlowerIsland
+biomesoplenty:corrupted_sands,104,Corrupted Sands,2.0,0.0,0.1,0.1,0.2,"SPOOKY, DRY, SANDY, HOT, NETHER",biomesoplenty.common.biome.nether.BiomeCorruptedSands
+biomesoplenty:fungi_forest,105,Fungi Forest,2.0,0.0,0.1,0.1,0.2,"MUSHROOM, HOT, DENSE, NETHER",biomesoplenty.common.biome.nether.BiomeFungiForest
+biomesoplenty:phantasmagoric_inferno,106,Phantasmagoric Inferno,2.0,0.0,0.1,0.1,0.2,"WASTELAND, DRY, HOT, NETHER",biomesoplenty.common.biome.nether.BiomePhantasmagoricInferno
+biomesoplenty:polar_chasm,107,Polar Chasm,0.25,0.0,0.1,0.1,0.2,"SNOWY, DRY, COLD, NETHER",biomesoplenty.common.biome.nether.BiomePolarChasm
+biomesoplenty:undergarden,108,Undergarden,2.0,0.0,0.1,0.1,0.2,"LUSH, HOT, JUNGLE, NETHER",biomesoplenty.common.biome.nether.BiomeUndergarden
+biomesoplenty:visceral_heap,109,Visceral Heap,2.0,0.0,0.1,0.1,0.2,"HOT, WET, NETHER",biomesoplenty.common.biome.nether.BiomeVisceralHeap
+essentialcraft:chaoscorruption,110,Chaos Corrupted Land,0.5,0.5,0.1,0.1,0.2,"WASTELAND, MAGICAL, PLAINS",essentialcraft.common.world.biome.BiomeChaosCorruption
+essentialcraft:frozencorruption,111,Frozen Corrupted Land,0.5,0.5,0.1,0.1,0.2,"WASTELAND, MAGICAL, PLAINS",essentialcraft.common.world.biome.BiomeFrozenCorruption
+essentialcraft:shadowcorruption,112,Shadow Corrupted Land,0.5,0.5,0.1,0.1,0.2,"WASTELAND, MAGICAL, RARE, PLAINS",essentialcraft.common.world.biome.BiomeShadowCorruption
+essentialcraft:magiccorruption,113,Magic Corrupted Land,0.5,0.5,0.1,0.1,0.2,"WASTELAND, MAGICAL, PLAINS",essentialcraft.common.world.biome.BiomeMagicCorruption
+essentialcraft:dreadlands,114,Hoanna Dreadlands,2.0,0.0,0.1,0.125,0.126,"DRY, HOT, DEAD",essentialcraft.common.world.biome.BiomeHoannaDreadlands
+essentialcraft:desert,115,Hoanna Desert,2.0,0.0,0.1,0.125,0.05,"DRY, HOT",essentialcraft.common.world.biome.BiomeHoannaDesert
+randomthings:spectral,116,Spectral,0.2,0.5,0.1,0.1,0.2,MAGICAL,lumien.randomthings.biomes.BiomeSpectral
+appliedenergistics2:storage_biome,117,Storage Cell,-100.0,0.5,0.1,0.1,0.2,"COLD, PLAINS",appeng.spatial.BiomeGenStorage
+buildcraftenergy:oil_ocean,118,Ocean Oil Field,0.5,0.5,0.1,-1.0,0.1,"WATER, OCEAN",buildcraft.energy.generation.BiomeOilOcean
+buildcraftenergy:oil_desert,119,Desert Oil Field,2.0,0.0,0.1,0.125,0.05,"DRY, SANDY, HOT",buildcraft.energy.generation.BiomeOilDesert
+integrateddynamics:biome_meneglin,120,Meneglin,0.75,0.25,0.1,0.4,0.4,"MAGICAL, COLD",org.cyclops.integrateddynamics.world.biome.BiomeMeneglin
+wizardry:wizardry_underworld,121,wizardry_underworld,0.5,0.5,0.1,0.1,0.2,"SPOOKY, VOID, MAGICAL, DRY, COLD",com.teamwizardry.wizardry.common.world.biome.BiomeUnderWorld
+twilightforest:twilight_lake,122,Twilight Lake,0.66,1.0,0.12,-1.8,0.1,"WATER, OCEAN",twilightforest.biomes.TFBiomeTwilightLake
+twilightforest:twilight_forest,123,Twilight Forest,0.5,0.5,0.12,0.1,0.2,FOREST,twilightforest.biomes.TFBiomeBase
+twilightforest:dense_twilight_forest,124,Dense Twilight Forest,0.7,0.8,0.12,0.2,0.2,"FOREST, DENSE",twilightforest.biomes.TFBiomeTwilightForestVariant
+twilightforest:twilight_highlands,125,Twilight Highlands,0.4,0.7,0.12,3.5,0.05,"FOREST, CONIFEROUS, MOUNTAIN",twilightforest.biomes.TFBiomeHighlands
+twilightforest:mushroom_forest,126,Mushroom Forest,0.8,0.8,0.12,0.1,0.2,"FOREST, MUSHROOM",twilightforest.biomes.TFBiomeMushrooms
+minecraft:void,127,The Void,0.5,0.5,0.1,0.1,0.2,VOID,net.minecraft.world.biome.BiomeVoid
+twilightforest:twilight_swamp,128,Twilight Swamp,0.8,0.9,0.12,-0.125,0.125,"SWAMP, WET",twilightforest.biomes.TFBiomeSwamp
+minecraft:mutated_plains,129,Sunflower Plains,0.8,0.4,0.1,0.125,0.05,"RARE, PLAINS",net.minecraft.world.biome.BiomePlains
+minecraft:mutated_desert,130,Desert M,2.0,0.0,0.1,0.225,0.25,"DRY, SANDY, HOT, RARE",net.minecraft.world.biome.BiomeDesert
+minecraft:mutated_extreme_hills,131,Extreme Hills M,0.2,0.3,0.1,1.0,0.5,"SPARSE, MOUNTAIN, RARE",net.minecraft.world.biome.BiomeHills
+minecraft:mutated_forest,132,Flower Forest,0.7,0.8,0.1,0.1,0.4,"FOREST, HILLS, RARE",net.minecraft.world.biome.BiomeForest
+minecraft:mutated_taiga,133,Taiga M,0.25,0.8,0.1,0.3,0.4,"CONIFEROUS, FOREST, MOUNTAIN, COLD, RARE",net.minecraft.world.biome.BiomeTaiga
+minecraft:mutated_swampland,134,Swampland M,0.8,0.9,0.1,-0.1,0.3,"SWAMP, HILLS, WET, RARE",net.minecraft.world.biome.BiomeSwamp
+twilightforest:twilight_stream,135,Twilight Stream,0.5,0.1,0.12,-0.5,0.0,"WATER, RIVER",twilightforest.biomes.TFBiomeStream
+twilightforest:snowy_forest,136,Snowy Forest,0.09,0.9,0.12,0.2,0.2,"FOREST, CONIFEROUS, SNOWY, COLD",twilightforest.biomes.TFBiomeSnow
+twilightforest:twilight_glacier,137,Twilight Glacier,0.0,0.1,0.12,0.1,0.2,"WASTELAND, SNOWY, COLD",twilightforest.biomes.TFBiomeGlacier
+twilightforest:twilight_clearing,138,Twilight Clearing,0.8,0.4,0.12,0.125,0.05,"SPARSE, PLAINS",twilightforest.biomes.TFBiomeClearing
+twilightforest:oak_savannah,139,Oak Savanna,0.9,0.0,0.12,0.2,0.2,"FOREST, SPARSE",twilightforest.biomes.TFBiomeOakSavanna
+minecraft:mutated_ice_flats,140,Ice Plains Spikes,0.0,0.5,0.07,0.425,0.45000002,"SNOWY, COLD, HILLS, RARE",net.minecraft.world.biome.BiomeSnow
+twilightforest:firefly_forest,141,Firefly Forest,0.5,1.0,0.12,0.125,0.05,"LUSH, FOREST",twilightforest.biomes.TFBiomeFireflyForest
+twilightforest:deep_mushroom_forest,142,Deep Mushroom Forest,0.8,1.0,0.12,0.125,0.05,"FOREST, MUSHROOM",twilightforest.biomes.TFBiomeDeepMushrooms
+twilightforest:dark_forest,143,Dark Forest,0.7,0.8,0.12,0.125,0.05,"FOREST, SPOOKY, DENSE",twilightforest.biomes.TFBiomeDarkForest
+twilightforest:enchanted_forest,144,Enchanted Forest,0.5,0.5,0.12,0.1,0.2,"FOREST, MAGICAL",twilightforest.biomes.TFBiomeEnchantedForest
+twilightforest:fire_swamp,145,Fire Swamp,1.0,0.4,0.12,0.1,0.2,"WASTELAND, SWAMP, HOT",twilightforest.biomes.TFBiomeFireSwamp
+twilightforest:dark_forest_center,146,Dark Forest Center,0.5,0.5,0.12,0.125,0.05,"FOREST, SPOOKY, MAGICAL, DENSE",twilightforest.biomes.TFBiomeDarkForestCenter
+twilightforest:highlands_center,147,Highlands Center,0.3,0.2,0.12,10.5,0.025,"WASTELAND, DRY, DEAD, MESA",twilightforest.biomes.TFBiomeFinalPlateau
+twilightforest:thornlands,148,Thornlands,0.3,0.2,0.12,6.0,0.1,"WASTELAND, DRY, HILLS, DEAD",twilightforest.biomes.TFBiomeThornlands
+minecraft:mutated_jungle,149,Jungle M,0.95,0.9,0.1,0.2,0.4,"MOUNTAIN, HOT, JUNGLE, WET, DENSE, RARE",net.minecraft.world.biome.BiomeJungle
+minecraft:mutated_jungle_edge,151,JungleEdge M,0.95,0.8,0.1,0.2,0.4,"SPARSE, HOT, JUNGLE, HILLS, RARE",net.minecraft.world.biome.BiomeJungle
+minecraft:mutated_birch_forest,155,Birch Forest M,0.6,0.6,0.1,0.2,0.4,"FOREST, HILLS, DENSE, RARE",net.minecraft.world.biome.BiomeForestMutated
+minecraft:mutated_birch_forest_hills,156,Birch Forest Hills M,0.6,0.6,0.1,0.55,0.5,"FOREST, MOUNTAIN, DENSE, RARE",net.minecraft.world.biome.BiomeForestMutated
+minecraft:mutated_roofed_forest,157,Roofed Forest M,0.7,0.8,0.1,0.2,0.4,"FOREST, SPOOKY, MOUNTAIN, DENSE, RARE",net.minecraft.world.biome.BiomeForest
+minecraft:mutated_taiga_cold,158,Cold Taiga M,-0.5,0.4,0.1,0.3,0.4,"CONIFEROUS, FOREST, SNOWY, MOUNTAIN, COLD, RARE",net.minecraft.world.biome.BiomeTaiga
+minecraft:mutated_redwood_taiga,160,Mega Spruce Taiga,0.25,0.8,0.1,0.2,0.2,"FOREST, DENSE, RARE",net.minecraft.world.biome.BiomeTaiga
+minecraft:mutated_redwood_taiga_hills,161,Redwood Taiga Hills M,0.25,0.8,0.1,0.2,0.2,"FOREST, HILLS, DENSE, RARE",net.minecraft.world.biome.BiomeTaiga
+minecraft:mutated_extreme_hills_with_trees,162,Extreme Hills+ M,0.2,0.3,0.1,1.0,0.5,"SPARSE, MOUNTAIN, RARE",net.minecraft.world.biome.BiomeHills
+minecraft:mutated_savanna,163,Savanna M,1.1,0.0,0.1,0.3625,1.225,"SPARSE, SAVANNA, DRY, MOUNTAIN, HOT, RARE",net.minecraft.world.biome.BiomeSavannaMutated
+minecraft:mutated_savanna_rock,164,Savanna Plateau M,1.0,0.0,0.1,1.05,1.2125001,"SPARSE, SAVANNA, DRY, HOT, HILLS, RARE",net.minecraft.world.biome.BiomeSavannaMutated
+minecraft:mutated_mesa,165,Mesa (Bryce),2.0,0.0,0.1,0.1,0.2,"SPARSE, SAVANNA, DRY, MOUNTAIN, HOT, RARE",net.minecraft.world.biome.BiomeMesa
+minecraft:mutated_mesa_rock,166,Mesa Plateau F M,2.0,0.0,0.1,0.45,0.3,"SPARSE, DRY, HOT, HILLS, RARE",net.minecraft.world.biome.BiomeMesa
+minecraft:mutated_mesa_clear_rock,167,Mesa Plateau M,2.0,0.0,0.1,0.45,0.3,"SPARSE, SAVANNA, DRY, MOUNTAIN, HOT, RARE",net.minecraft.world.biome.BiomeMesa
