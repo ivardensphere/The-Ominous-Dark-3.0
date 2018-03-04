@@ -1,4 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
 
+  <!-- Base Metals -->
+
+  <recipe name="Sagmill: oreAntimony Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreAntimony" />
+      <output name="dustAntimony" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Sagmill: oreBismuth Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreBismuth" />
+      <output name="dustBismuth" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+    <recipe name="Sagmill: oreColdiron Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreColdiron" />
+      <output name="dustColdiron" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+    <recipe name="Sagmill: oreMercury Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreMercury" />
+      <output name="dustMercury" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+  <!-- Modern Metals -->
+
+    <recipe name="Sagmill: oreBoron Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreBoron" />
+      <output name="dustBoron" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+    <recipe name="Sagmill: oreCadmium Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreCadmium" />
+      <output name="dustCadmium" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+    <recipe name="Sagmill: oreChromium Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreChromium" />
+      <output name="dustChromium" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>  
+
+    <recipe name="Sagmill: oreIridium Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreIridium" />
+      <output name="dustIridium" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+    <recipe name="Sagmill: orePlutonium Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="orePlutonium" />
+      <output name="dustPlutonium" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+      <recipe name="Sagmill: oreTantalum Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreTantalum" />
+      <output name="dustTantalum" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+      <recipe name="Sagmill: oreThorium Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreThorium" />
+      <output name="dustThorium" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+      <recipe name="Sagmill: oreZirconium Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreZirconium" />
+      <output name="dustZirconium" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
+  <!-- Misc Ores -->
+
+    <recipe name="Sagmill: oreLithium Ore" required="false">
+    <sagmilling energy="3600">
+      <input name="oreLithium" />
+      <output name="dustLithium" amount="2" />
+      <output name="oredict:cobblestone" chance="0.15" />
+    </sagmilling>
+  </recipe>
+
 </enderio:recipes>
